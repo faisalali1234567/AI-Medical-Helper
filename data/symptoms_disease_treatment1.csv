@@ -1,0 +1,163 @@
+Disease,Symptoms,Medicine,Dosage,Precautions
+"fever, headache",Viral Fever,Paracetamol,500mg every 6 hrs,"Stay hydrated, rest"
+"cough, sore throat, cold",Common Cold,Paracetamol,500mg every 4 hrs,Avoid cold foods and drinks
+"nausea, vomiting, stomach pain",Food Poisoning,ORS solution,Drink plenty of fluids,Avoid spicy food
+"shortness of breath, chest pain",Asthma,Salbutamol inhaler,1 puff every 4 hrs,"Use inhaler as prescribed, avoid triggers"
+"fatigue, weakness, fever",Dengue,Paracetamol,500mg every 6 hrs,"Stay hydrated, rest, avoid mosquito bites"
+"dizziness, nausea, vomiting",Migraine,Sumatriptan,50mg as soon as symptoms appear,"Stay in a dark, quiet room"
+"runny nose, cough, sore throat",Flu,Oseltamivir,75mg twice a day for 5 days,"Take complete rest, drink warm fluids"
+"joint pain, fever, swollen lymph nodes",Rheumatic Fever,Aspirin,300mg twice a day,Complete the full course of medication
+"stomach cramps, bloating",Constipation,Lactulose syrup,15ml once a day,"Increase fiber intake, drink more water"
+"rash, fever, swollen lymph nodes",Measles,Vitamin A supplement,50000 IU once a day for 2 days,"Stay isolated, avoid contact"
+"Chest pain, shortness of breath",Heart Attack,Aspirin,300mg immediately,Call emergency services immediately
+"Severe headache, blurred vision",Hypertension Crisis,Captopril,25mg sublingual,"Sit upright, avoid exertion"
+"Difficulty breathing, hives",Anaphylaxis,Epinephrine,"0.3mg IM, repeat if needed","Avoid allergens, carry EpiPen"
+"Nausea, vomiting, diarrhea",Food Poisoning,ORS,Sip throughout the day,"Stay hydrated, avoid solid food"
+"Sudden weakness, slurred speech",Stroke,Tissue Plasminogen Activator,As prescribed,Seek immediate medical attention
+"Cough, fever, wheezing",Pneumonia,Amoxicillin,500mg every 8 hours,"Rest, stay hydrated, complete antibiotics"
+"Swelling, redness, pain in wound",Wound Infection,Antibiotics,As prescribed,"Keep wound clean, change dressings"
+"Itchy, watery eyes, sneezing",Allergic Reaction,Antihistamines,10mg once daily,"Avoid allergens, use air purifiers"
+"Fever, chills, stiff neck",Meningitis,Ceftriaxone,IV as prescribed,Seek immediate medical attention
+Burns with blistering,Second-degree Burn,Burn ointment,Apply twice daily,"Cool under running water, avoid breaking blisters"
+"Persistent cough, fatigue",Bronchitis,Cough syrup,10ml every 4-6 hours,"Avoid smoking, stay hydrated"
+"Sudden chest tightness, breathlessness",Asthma Attack,Salbutamol inhaler,2 puffs every 4 hours,"Avoid allergens, use prescribed inhalers"
+"Severe abdominal pain, vomiting",Appendicitis,Pain relievers (temporary),As prescribed,Seek surgical consultation
+Nosebleed,Epistaxis,Pinching nose,N/A,"Lean forward, avoid tilting head back"
+"Extreme thirst, frequent urination",Diabetic Hyperglycemia,Insulin,Based on glucose level,"Monitor blood sugar, avoid sugary foods"
+"Dizziness, sweating, fainting",Heatstroke,IV fluids,As required,"Cool environment, hydrate well"
+"Bruising, joint pain, nosebleeds",Dengue,Paracetamol,500mg every 6 hours,"Avoid NSAIDs, stay hydrated"
+"Swelling of leg, redness, pain",Deep Vein Thrombosis,Blood thinners,As prescribed,Avoid prolonged immobility
+"Severe toothache, gum swelling",Dental Abscess,Amoxicillin,500mg every 8 hours,"Maintain oral hygiene, see a dentist"
+"Seizures, confusion",Epilepsy,Antiepileptics,As prescribed,"Avoid triggers, take medication regularly"
+"Rash, fever, muscle pain",Chickenpox,Calamine lotion,Apply as needed,"Avoid scratching, isolate to prevent spread"
+"Pain, deformity in limb",Fracture,Pain relievers,As prescribed,"Immobilize limb, seek medical care"
+"Sunburn with redness, pain",Sunburn,Aloe vera gel,Apply as needed,"Use sunscreen, avoid sun exposure"
+"Painful urination, frequent urge",Urinary Tract Infection,Nitrofurantoin,100mg every 12 hours,"Stay hydrated, avoid irritants"
+Sudden loss of consciousness,Fainting,N/A,N/A,"Lie flat, elevate legs"
+"High fever, stiff joints",Rheumatic Fever,Aspirin,As prescribed,"Avoid strenuous activities, monitor fever"
+Sharp abdominal pain,Gallstones,Pain relievers,As prescribed,Seek medical evaluation
+"Dry, cracked lips",Dehydration,ORS,Sip throughout the day,"Drink water regularly, avoid diuretics"
+Uncontrolled bleeding,Hemorrhage,Direct pressure to wound,N/A,Seek emergency care immediately
+"Sudden dizziness, difficulty walking",Vertigo,Meclizine,25-50mg as needed,"Avoid sudden movements, stay seated"
+"Severe swelling, pain in limb",Sprain,Pain relievers,As prescribed,"Rest, ice application, compression, elevation"
+"Fever, sweating, night chills",Malaria,Artemisinin-based therapy,As prescribed,"Use insect repellents, complete medication"
+"Severe headache, vomiting",Migraine,Sumatriptan,50-100mg as needed,"Rest in a dark room, avoid triggers"
+"Red, painful swelling on skin",Cellulitis,Antibiotics,As prescribed,"Elevate affected area, maintain hygiene"
+"Intense itching, scaly skin",Fungal Infection,Antifungal cream,Apply twice daily,"Avoid sharing towels, keep skin dry"
+"Cough with blood, chest pain",Tuberculosis,Rifampin,As prescribed,Complete full treatment course
+"Sudden leg cramps, dizziness",Electrolyte Imbalance,Oral rehydration solutions,Sip regularly,"Maintain hydration, eat a balanced diet"
+"Severe ear pain, hearing loss",Otitis Media,Amoxicillin,500mg every 8 hours,Avoid inserting objects into ears
+"Pain in the back, blood in urine",Kidney Stones,Alpha-blockers,As prescribed,"Stay hydrated, avoid high-oxalate foods"
+"Yellowing of eyes, dark urine",Hepatitis A,Supportive care,N/A,"Maintain hygiene, avoid fatty foods"
+"Sudden fever, joint pain, rash",Chikungunya,Paracetamol,500mg every 6 hours,"Use mosquito repellents, rest well"
+"Facial drooping, arm weakness",Transient Ischemic Attack,Antiplatelets,As prescribed,Seek immediate medical care
+"Muscle spasms, inability to move",Tetanus,Tetanus Immunoglobulin,Based on weight,"Keep wounds clean, ensure vaccination"
+"Sore throat, swollen lymph nodes",Tonsillitis,Antibiotics,As prescribed,"Avoid irritants, rest voice"
+"Extreme weakness, pale skin",Anemia,Iron supplements,Based on blood test results,"Consume iron-rich foods, avoid caffeine"
+"Eye redness, pain, blurred vision",Conjunctivitis,Antibiotic eye drops,1-2 drops every 4-6 hours,"Avoid touching eyes, maintain hygiene"
+"Sudden inability to speak, confusion",Aphasia,Emergency care,N/A,Seek medical evaluation immediately
+"Swelling, numbness in hand",Carpal Tunnel Syndrome,Wrist splint,Wear during sleep,"Avoid repetitive strain, ergonomic changes"
+"Sudden high fever, confusion",Sepsis,Broad-spectrum antibiotics,IV as prescribed,Immediate hospitalization
+"Vomiting blood, abdominal pain",Peptic Ulcer,Proton pump inhibitors,Once daily,"Avoid NSAIDs, limit spicy foods"
+"Tightness in throat, difficulty swallowing",Esophageal Stricture,Acid reducers,As prescribed,"Eat soft foods, seek medical advice"
+"Fatigue, joint pain, rash on cheeks",Lupus,Hydroxychloroquine,As prescribed,"Avoid sun exposure, regular check-ups"
+"Severe sore throat, difficulty breathing",Diphtheria,Diphtheria antitoxin,As prescribed,Seek emergency medical treatment
+"Chills, low blood pressure, rash",Septic Shock,IV fluids and vasopressors,N/A,Immediate hospitalization
+Sudden sharp pain in lower abdomen,Ovarian Cyst Rupture,Pain relievers,As prescribed,Seek medical consultation
+"Persistent nausea, upper abdominal pain",Gastritis,Antacids,As needed,"Avoid spicy foods, eat small meals"
+"Weakness, lightheadedness, low pulse",Bradycardia,Atropine,As prescribed,Avoid activities causing strain
+"Abnormal breathing, bluish skin",Respiratory Distress,Oxygen therapy,Based on oxygen level,Call emergency services
+"Sudden severe neck pain, fever",Spinal Abscess,Antibiotics,IV as prescribed,Seek immediate medical treatment
+"Blisters on lips, burning sensation",Cold Sores,Acyclovir,200mg 5 times a day,"Avoid kissing, maintain hygiene"
+"Persistent itching, visible rash",Eczema,Corticosteroid cream,Apply twice daily,"Use moisturizers, avoid irritants"
+"Severe coughing fits, difficulty breathing",Whooping Cough,Macrolides,As prescribed,"Isolate patient, maintain hydration"
+"Dull, throbbing headache, nausea",Concussion,Pain relievers,As prescribed,"Avoid physical activity, monitor symptoms"
+Pain and swelling in one testicle,Testicular Torsion,Surgery,Immediate,Seek emergency care
+"Fatigue, weight loss, frequent infections",Leukemia,Chemotherapy,As prescribed,"Regular blood tests, avoid exposure to illness"
+"Sudden numbness, tingling in limbs",Peripheral Neuropathy,Gabapentin,300mg daily,"Control diabetes, avoid repetitive strain"
+"Loss of coordination, blurred vision",Multiple Sclerosis,Corticosteroids,IV as prescribed,"Regular exercise, physical therapy"
+"Shortness of breath, swelling in legs",Pulmonary Embolism,Anticoagulants,As prescribed,Avoid prolonged immobility
+"Irregular heartbeat, chest discomfort",Arrhythmia,Beta blockers,As prescribed,"Avoid stimulants, manage stress"
+"Fever, pain around the cheeks",Sinusitis,Decongestants,As needed,"Avoid allergens, stay hydrated"
+"Swollen gums, bleeding while brushing",Gingivitis,Antiseptic mouthwash,Twice daily,"Maintain oral hygiene, use soft toothbrush"
+Painful bumps under the skin,Boil,Warm compress,Apply thrice daily,"Avoid squeezing, maintain hygiene"
+"Pain in heel, stiffness in the morning",Plantar Fasciitis,NSAIDs,As prescribed,"Use orthotic insoles, stretch regularly"
+"Joint stiffness, swollen fingers",Arthritis,NSAIDs,As prescribed,"Engage in light exercise, use hot compress"
+"Pain, swelling, bruising in the joint",Dislocation,Pain relievers,As prescribed,"Immobilize joint, seek medical attention"
+"Abdominal cramps, fever, bloody stool",Dysentery,Antibiotics,As prescribed,"Maintain hydration, avoid contaminated food"
+Sudden severe chest pain,Angina,Nitroglycerin,As prescribed,"Avoid overexertion, manage stress"
+"Persistent leg pain, dark veins",Varicose Veins,Compression stockings,N/A,Avoid standing for long periods
+"Difficulty swallowing, weight loss",Esophageal Cancer,Chemotherapy,As prescribed,"Regular monitoring, eat soft foods"
+"Intense headache, visual disturbances",Glaucoma,Eye drops,As prescribed,"Regular eye check-ups, avoid straining eyes"
+"Swelling, redness around the nail",Paronychia,Antibiotics,As prescribed,"Soak in warm water, avoid nail-biting"
+"Weakness, difficulty climbing stairs",Muscular Dystrophy,Physical therapy,As prescribed,"Maintain physical activity, regular check-ups"
+"Frequent urination, increased thirst",Diabetes,Insulin,Based on glucose level,"Monitor blood sugar, maintain a healthy diet"
+"Sudden hearing loss, dizziness",Meniere's Disease,Diuretics,As prescribed,"Reduce salt intake, avoid stress"
+"Fever, swollen glands, sore throat",Mononucleosis,Supportive care,N/A,"Rest, avoid contact sports"
+"Pain, redness in the corner of the eye",Stye,Warm compress,Apply thrice daily,"Avoid touching eyes, use clean towels"
+"Pain, swelling in the big toe joint",Gout,Allopurinol,As prescribed,"Avoid high-purine foods, stay hydrated"
+Intense itching in genital area,Yeast Infection,Antifungal cream,Apply twice daily,"Maintain hygiene, avoid tight clothing"
+"Frequent falls, poor balance",Parkinson's Disease,Levodopa,As prescribed,"Physical therapy, avoid hazardous environments"
+"Severe stomach cramps, nausea",Gastritis,Antacids,As prescribed,"Avoid spicy foods, reduce stress"
+"Rapid heartbeat, chest pain",Tachycardia,Beta blockers,As prescribed,"Avoid stimulants, manage stress"
+"Severe pain in the eye, blurred vision",Acute Glaucoma,Carbonic anhydrase inhibitors,As prescribed,"Seek immediate care, avoid dark environments"
+"Severe headache, light sensitivity",Migraine,Triptans,As prescribed,"Avoid triggers, rest in a quiet room"
+"Sudden leg swelling, pain",Deep Vein Thrombosis,Anticoagulants,As prescribed,"Avoid prolonged sitting, hydrate well"
+"High fever, neck stiffness, confusion",Meningitis,Antibiotics,As prescribed,"Seek urgent care, avoid crowded areas"
+"Abdominal distension, difficulty passing stool",Bowel Obstruction,Laxatives,As prescribed,Avoid solid foods until cleared
+"Loss of consciousness, irregular pulse",Bradycardia,Atropine,As prescribed,Monitor heart rate regularly
+"Painful, swollen joint",Rheumatoid Arthritis,Methotrexate,Weekly,"Avoid overexertion, manage flare-ups"
+"Severe back pain, difficulty walking",Spinal Cord Injury,Analgesics,As prescribed,"Immobilize, avoid movement"
+"Nausea, dizziness, sensitivity to light",Vertigo,Antiemetics,As prescribed,"Avoid sudden head movements, stay seated"
+"Excessive sweating, extreme weakness",Heat Stroke,"IV fluids, electrolytes",As prescribed,"Keep cool, hydrate frequently"
+"Numbness in face, loss of vision",Stroke,Tissue Plasminogen Activator,As prescribed,Seek immediate medical attention
+"Severe facial swelling, difficulty breathing",Angioedema,Antihistamines,As prescribed,"Avoid allergens, carry an epinephrine pen"
+"Severe leg pain, difficulty moving",Sciatica,Pain relievers,As prescribed,"Avoid prolonged sitting, stretch regularly"
+"Sudden loss of appetite, yellowing of skin",Hepatitis,Antiviral medications,As prescribed,"Avoid alcohol, stay hydrated"
+"Difficulty urinating, abdominal pain",Prostatitis,Antibiotics,As prescribed,"Avoid caffeine, seek medical advice"
+"Severe burning sensation, redness in area",Chemical Burn,"Cool water, burn cream",As prescribed,"Seek medical attention, avoid further exposure"
+"Difficulty breathing, tightness in chest",Pulmonary Edema,Diuretics,As prescribed,Avoid heavy physical exertion
+"Sudden dizziness, loss of balance",Benign Paroxysmal Positional Vertigo,Antihistamines,As prescribed,"Avoid head movements, take antihistamines"
+"Sudden loss of vision, eye pain",Retinal Detachment,Surgery,Immediate,"Avoid rubbing eyes, seek immediate care"
+"Painful urination, blood in urine",Kidney Stones,Pain relievers,As prescribed,"Drink plenty of fluids, avoid high-sodium foods"
+"Chest pain, shortness of breath",Pulmonary Embolism,Anticoagulants,As prescribed,"Avoid prolonged immobility, stay hydrated"
+"Severe headache, confusion, fever",Encephalitis,Antiviral medications,As prescribed,"Seek urgent care, monitor neurological symptoms"
+Numbness in one side of the body,Hemiplegia,"Physical therapy, Antiplatelets",As prescribed,"Monitor vital signs, assist with mobility"
+"Difficulty swallowing, drooping face",Guillain-Barré Syndrome,Immunoglobulins,As prescribed,"Avoid respiratory distress, monitor weakness"
+"Weakness, fatigue, loss of appetite",Anemia,Iron supplements,As prescribed,"Avoid heavy exercise, monitor energy levels"
+"Severe pain, redness in eye",Corneal Abrasion,Antibiotic eye drops,As prescribed,"Avoid touching eyes, wear protective glasses"
+"Pain and swelling in knee, inability to walk",Torn Meniscus,"Rest, ice, anti-inflammatory",As prescribed,"Avoid weight-bearing activities, elevate leg"
+"Difficulty speaking, sudden weakness",Transient Ischemic Attack,Anticoagulants,As prescribed,"Seek emergency care, avoid alcohol"
+"Severe cough, difficulty breathing",Acute Bronchitis,Cough suppressants,As prescribed,"Stay hydrated, avoid smoke exposure"
+"Pain and numbness in leg, foot drop",Sciatica,"Pain relievers, Muscle relaxants",As prescribed,"Avoid prolonged sitting, stretch regularly"
+"Swollen lymph nodes, fever",Lymphoma,Chemotherapy,As prescribed,"Regular check-ups, manage side effects"
+"Severe abdominal pain, bloating",Peritonitis,"Antibiotics, Pain relievers",As prescribed,"Seek emergency surgery, maintain hydration"
+"Headache, muscle aches, joint pain",Influenza,Antiviral medications,As prescribed,"Rest, hydrate, avoid contact with others"
+"Sharp chest pain, dizziness, cough",Pneumothorax,Chest tube insertion,Immediate,"Seek immediate medical care, avoid pressure"
+"Difficulty breathing, chest tightness",Asthma Exacerbation,"Beta-agonists, Steroids",As prescribed,"Monitor breathing, avoid triggers"
+"Abdominal pain, dark stool",Peptic Ulcer Disease,Proton pump inhibitors,As prescribed,"Avoid alcohol, spicy food, and smoking"
+"Sudden hearing loss, ringing in ears",Sudden Sensorineural Hearing Loss,Corticosteroids,As prescribed,"Seek immediate care, avoid loud noises"
+"High fever, painful rash",Shingles,Antiviral medications,As prescribed,Avoid contact with non-vaccinated individuals
+"Severe headache, blurred vision, nausea",Preeclampsia,"Magnesium sulfate, Labetalol",As prescribed,"Monitor blood pressure, rest in left lateral position"
+"Red, painful skin rash, fever",Cellulitis,Antibiotics,As prescribed,"Keep wound clean, avoid scratching"
+"Severe abdominal pain, bloating",Gastric Torsion,"Surgery, IV fluids",As prescribed,"Avoid solid foods until surgery, stay hydrated"
+"Sudden inability to speak, weakness in one arm",Stroke,Tissue Plasminogen Activator,As prescribed,Seek immediate medical care
+"Difficulty breathing, pain in chest",Acute Respiratory Distress Syndrome,Mechanical Ventilation,As prescribed,"Keep airway clear, monitor oxygen levels"
+"Severe pain in lower back, radiating down leg",Herniated Disc,"Pain relievers, Surgery",As prescribed,"Avoid heavy lifting, use heat packs"
+"Coughing up blood, chest pain",Tuberculosis,Antituberculosis drugs,As prescribed,Complete the full course of medication
+"Sudden difficulty in walking, confusion",Stroke,Antiplatelet drugs,As prescribed,"Monitor vital signs, avoid stress"
+"Intense joint pain, fever, rash",Rheumatic Fever,"Antibiotics, Anti-inflammatories",As prescribed,"Rest, hydrate, avoid strenuous activity"
+"Persistent dry cough, fatigue",Chronic Obstructive Pulmonary Disease (COPD),Bronchodilators,As prescribed,"Avoid smoking, use oxygen therapy if needed"
+"Blurred vision, difficulty focusing",Diabetic Retinopathy,"Laser treatment, Anti-VEGF",As prescribed,"Monitor blood sugar, protect eyes from light"
+"Severe dizziness, nausea, loss of coordination",Vestibular Neuritis,"Antihistamines, Steroids",As prescribed,"Avoid sudden head movements, stay hydrated"
+"Sudden confusion, slurred speech, dizziness",Transient Ischemic Attack,Antiplatelets,As prescribed,"Avoid triggers, monitor blood pressure"
+"Swelling, pain, redness in calf",Deep Vein Thrombosis,Anticoagulants,As prescribed,"Avoid long periods of immobility, hydrate"
+"Severe abdominal cramps, blood in stool",Ulcerative Colitis,Anti-inflammatory drugs,As prescribed,"Monitor symptoms, avoid stress"
+"Redness, swelling, pain around a bite",Insect Sting Infection,"Antihistamines, Steroids",As prescribed,"Avoid scratching, apply cold compress"
+Pain and tingling in fingers or toes,Carpal Tunnel Syndrome,"Wrist splint, Steroids",As prescribed,"Avoid repetitive strain, take breaks frequently"
+"Shortness of breath, cough, wheezing",Asthma Attack,"Inhalers, Steroids",As prescribed,"Avoid triggers, keep inhaler nearby"
+"Severe pain, swelling in the throat",Peritonsillar Abscess,"Antibiotics, Surgery",As prescribed,"Avoid swallowing, keep head elevated"
+"Severe headache, vomiting, high fever",Hypertensive Crisis,Antihypertensive medications,As prescribed,"Monitor blood pressure, avoid stress"
+"Painful, swollen ankle, bruising",Ankle Sprain,"Rest, Ice, Elevation",As prescribed,"Avoid walking, apply ice regularly"
+"Sudden fainting, pale skin, dizziness",Syncope,None (symptom management),As prescribed,"Rest, avoid standing for long periods"
+"High fever, sore throat, difficulty swallowing",Strep Throat,Antibiotics,As prescribed,"Stay isolated, complete full course of antibiotics"

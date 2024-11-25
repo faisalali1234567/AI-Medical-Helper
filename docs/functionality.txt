@@ -1,0 +1,8 @@
+13. Functionality Evaluation
+Testing Process:
+
+Conducted extensive testing with multiple disease-related queries.
+Verified the accuracy, relevance, and reliability of the system's responses.
+Results:
+
+Demonstrated the system’s capability to provide precise, actionable medical guidance across various scenarios.

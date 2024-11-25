@@ -1,0 +1,10 @@
+11. Innovation and Originality
+Highlight the use of RAG:
+
+Incorporates Retrieval-Augmented Generation (RAG) to provide contextually accurate and relevant medical responses.
+Combines a curated knowledge base with generative AI to ensure factual, reliable outputs.
+Originality:
+
+Integrates vector search techniques with a medical database for precise information retrieval.
+Enhances generative AI responses by grounding them in domain-specific knowledge.
+Tackles the challenge of delivering trustworthy and accessible healthcare information.

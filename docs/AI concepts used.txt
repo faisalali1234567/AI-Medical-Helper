@@ -1,0 +1,46 @@
+The AI Medical Helper leverages state-of-the-art Retrieval-Augmented Generation (RAG) methodology combined with an intuitive user interface to deliver accurate, context-specific medical guidance.
+
+1. Retrieval-Augmented Generation (RAG) Framework
+- Overview:
+	RAG combines a knowledge retrieval system with a generative language model to provide accurate and context-aware responses. It ensures that the AI generates answers based on factual and pre-stored information rather than relying solely on a language model's training data.
+	- Retrieval: Relevant data is fetched from a custom knowledge base.
+	- Generation: A pre-trained Large Language Model (LLM) (e.g., Google PaLM) generates responses using the retrieved context.
+
+2. Key Components
+A. Knowledge Base Creation
+Dataset Used:
+A CSV file (symptoms_disease_treatment1.csv) containing the following columns:
+	Disease: Name of the disease.
+	Symptoms: List of associated symptoms.
+	Medicine: Recommended medicines.
+	Dosage: Dosage instructions.
+	Precautions: Necessary precautions.
+Embedding Generation:
+	Using Hugging Face Embeddings (all-MiniLM-L6-v2), each entry in the CSV is converted into high-dimensional vector embeddings to make it machine-readable.
+B. Vector Search System
+	Tool Used: FAISS (Facebook AI Similarity Search)
+	FAISS is employed to store and search through embeddings efficiently.
+	When a user query is converted into an embedding, FAISS performs a similarity search to retrieve the most 	relevant entries.
+C. Query Processing
+User Input Embedding:
+The user's query is processed into an embedding using the same embedding model to ensure compatibility.
+Similarity Search:
+FAISS retrieves the closest matching embeddings from the knowledge base based on cosine similarity.
+D. Prompt Engineering
+Custom Prompts:
+Prompts are designed to guide the LLM (Google PaLM) to use the retrieved context to generate structured, accurate responses.
+E. Generative AI Model
+LLM Used: Google PaLM (Gemini-Pro)
+Processes the prompt (including user query and retrieved context) to generate a human-readable, structured response.
+Temperature Setting: Adjusted to 0.5 for balanced creativity and factual accuracy.
+
+Tools and Libraries
+LangChain Framework:
+	Orchestrates the interaction between components (retrieval, LLM, and prompt engineering).
+Streamlit:
+	Provides a user-friendly web interface for querying the system.
+Hugging Face Embeddings:
+	Converts textual data into embeddings for FAISS.
+FAISS:
+	Performs high-speed, scalable similarity searches.
+

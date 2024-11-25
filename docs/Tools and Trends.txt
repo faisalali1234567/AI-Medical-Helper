@@ -1,0 +1,51 @@
+Tools and Trends
+
+Tools Used
+1. Hugging Face Embeddings
+Purpose: Converts textual data (e.g., symptoms, diseases, medicines) into vector embeddings for machine-readable representation.
+Model Used: all-MiniLM-L6-v2, a lightweight yet powerful embedding model.
+Why Used: Offers fast, accurate, and resource-efficient embeddings, perfect for medical domain-specific data.
+2. FAISS (Facebook AI Similarity Search)
+Purpose: A vector database used for fast similarity searches across embeddings.
+Why Used:
+Handles high-dimensional data efficiently.
+Performs rapid nearest-neighbor searches, even on large datasets.
+Ensures scalability for real-time query retrieval.
+3. Google PaLM (Gemini Pro)
+Purpose: A state-of-the-art Large Language Model (LLM) used for generating responses.
+Why Used:
+Specialized in conversational and instruction-following tasks.
+Excels in understanding context and generating domain-specific responses.
+Superior fine-tuning and medical terminology understanding compared to many general-purpose LLMs.
+4. LangChain Framework
+Purpose: Orchestrates the integration of embeddings, vector databases, and LLMs for seamless workflow.
+Why Used: Simplifies the RAG (Retrieval-Augmented Generation) implementation and allows for modular development.
+5. Streamlit
+Purpose: A Python-based framework for creating interactive web applications.
+Why Used: Provides a lightweight, user-friendly interface to query the AI system.
+6. Environment Management Tools
+Python Libraries: dotenv (to manage environment variables securely).
+Version Control: GitHub for code collaboration and repository management.
+
+Trends Leveraged
+
+Retrieval-Augmented Generation (RAG)
+Trend: Combines knowledge retrieval with generative models.
+Importance: Reduces hallucinations by ensuring responses are based on factual, trusted data.
+
+Lightweight Models for Embeddings
+Trend: Uses smaller models like all-MiniLM-L6-v2 for real-time applications.
+Importance: Balances accuracy and resource efficiency.
+
+Vector Databases
+Trend: Adoption of tools like FAISS for fast similarity searches.
+Importance: Enables real-time performance and scalability for large datasets.
+
+Explainable AI (XAI)
+Trend: Focus on transparency and structured outputs.
+Importance: Enhances clarity, especially in critical domains like healthcare.
+
+Domain-Specific AI
+Trend: Tailored solutions for specialized fields like medicine.
+Importance: Increases trust and accuracy in addressing specific problems.
+

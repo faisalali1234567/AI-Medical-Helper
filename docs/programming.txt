@@ -1,0 +1,4 @@
+10. Programming Languages
+Languages Used:
+Python (Primary): Used for the backend logic, data processing, and integration with machine learning models.
+Markdown: Utilized for structured and comprehensive documentation.

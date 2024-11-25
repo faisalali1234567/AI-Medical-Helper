@@ -1,0 +1,6 @@
+9. Platform (Android, iOS, Web)
+Platform Used:
+The AI Medical Helper is currently a web-based application developed using Streamlit.
+Additional Features:
+The design is modular, allowing future expansion to Android and iOS platforms.
+This modularity enables scalability and adaptability for different user devices and environments.
